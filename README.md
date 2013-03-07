@@ -11,3 +11,9 @@ Installation
 1. Log in as administrator in Dotclear
 2. Go to your Extensions Manager and upload the Archive
 3. Follow the instructions: you will simply need to enter your Mailjet secret and API keys
+
+
+License
+-------
+
+dotclear-mailjet-plugin is licensed under the MIT License. (See [LICENSE](LICENSE.md))
