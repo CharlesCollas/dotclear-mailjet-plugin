@@ -1,4 +1,4 @@
-Mailjet for Dotclear
+[API v1] Mailjet for Dotclear
 =====================
 
 Mailjet's Dotclear plugin provides complete control of Email settings with Dotclear.
